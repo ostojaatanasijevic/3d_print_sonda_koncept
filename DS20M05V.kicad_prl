@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -20,13 +20,13 @@
       "footprints": true,
       "graphics": false,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": false,
       "pads": false,
-      "text": true,
+      "text": false,
       "tracks": true,
-      "vias": true,
-      "zones": true
+      "vias": false,
+      "zones": false
     },
     "visible_items": [
       "vias",
@@ -49,7 +49,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff7_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "DS100M08KV2.kicad_prl",
+    "filename": "DS20M05V.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
