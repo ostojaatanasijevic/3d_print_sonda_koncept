@@ -466,7 +466,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "DS100M06V_linear"
+      "DS100M06V_linear",
+      "DS20M05V",
+      "DS100M08KV"
     ],
     "pinned_symbol_libs": []
   },

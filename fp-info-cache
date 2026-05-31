@@ -1,4 +1,4 @@
-14126850703150
+35374405555517
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57469,6 +57469,76 @@ ceramic
 0
 3
 3
+DS20M05V
+BNC_panel_mount
+Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, green, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
+cliff 4mm socket jack banana green
+0
+0
+0
+DS20M05V
+CT3151SP2-BLACK
+CT3151SP-2-2
+Connector
+0
+4
+4
+DS20M05V
+CT3151SP2-RED
+CT3151SP-2-2
+Connector
+0
+4
+4
+DS20M05V
+DPDT_bigger
+C&K sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf
+switch DPDT
+0
+6
+6
+DS20M05V
+M3_with_screw
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
+DS20M05V
+TO-126-3_Horizontal_TabUp_No_Hole
+TO-126-3, Horizontal, RM 2.28mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
+TO-126-3 Horizontal RM 2.28mm
+0
+3
+3
+DS20M05V
+USB_C_floating
+
+
+0
+0
+0
+DS20M05V
+battery_holder
+
+
+0
+2
+2
+DS20M05V
+black_safety_4mm_connector
+Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, green, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
+cliff 4mm socket jack banana green
+0
+0
+0
+DS20M05V
+red_safety_4mm_connector
+Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, green, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
+cliff 4mm socket jack banana green
+0
+0
+0
 DS100M08KV
 BNC_panel_mount
 Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, green, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
@@ -57476,6 +57546,20 @@ cliff 4mm socket jack banana green
 0
 0
 0
+DS100M08KV
+CT3151SP2-BLACK
+CT3151SP-2-2
+Connector
+0
+4
+4
+DS100M08KV
+CT3151SP2-RED
+CT3151SP-2-2
+Connector
+0
+4
+4
 DS100M08KV
 DPDT_bigger
 C&K sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf
