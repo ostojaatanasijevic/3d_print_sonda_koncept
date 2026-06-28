@@ -1,4 +1,4 @@
-35374405555517
+53475567179149
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57470,6 +57470,13 @@ ceramic
 3
 3
 DS20M05V
+5414373-1
+BNC RF Interface, PCB mount 4 pin, Right Angle, Bayonet, 50Ohm, 4GHz, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1478035%7FB1%7Fpdf%7FEnglish%7FENG_CD_1478035_B1.pdf%7F1-1478035-0
+BNC RF interface bayonet 50ohm
+0
+3
+2
+DS20M05V
 BNC_panel_mount
 Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, green, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
 cliff 4mm socket jack banana green
@@ -57501,6 +57508,13 @@ DS20M05V
 M3_with_screw
 Mounting Hole 3.2mm, no annular, M3
 mounting hole 3.2mm no annular m3
+0
+0
+0
+DS20M05V
+M5_floating
+
+
 0
 0
 0
@@ -57539,6 +57553,34 @@ cliff 4mm socket jack banana green
 0
 0
 0
+DS20M05V
+spade_connector
+
+
+0
+1
+1
+DS20M05V
+spade_connector_mid_PCB
+
+
+0
+1
+1
+DS20M05V
+spade_connector_tht
+
+
+0
+1
+1
+DS100M08KV
+5414373-1
+BNC RF Interface, PCB mount 4 pin, Right Angle, Bayonet, 50Ohm, 4GHz, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1478035%7FB1%7Fpdf%7FEnglish%7FENG_CD_1478035_B1.pdf%7F1-1478035-0
+BNC RF interface bayonet 50ohm
+0
+3
+2
 DS100M08KV
 BNC_panel_mount
 Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, green, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
@@ -57571,6 +57613,13 @@ DS100M08KV
 M3_with_screw
 Mounting Hole 3.2mm, no annular, M3
 mounting hole 3.2mm no annular m3
+0
+0
+0
+DS100M08KV
+M5_floating
+
+
 0
 0
 0
@@ -57609,6 +57658,27 @@ cliff 4mm socket jack banana green
 0
 0
 0
+DS100M08KV
+spade_connector
+
+
+0
+1
+1
+DS100M08KV
+spade_connector_mid_PCB
+
+
+0
+1
+1
+DS100M08KV
+spade_connector_tht
+
+
+0
+1
+1
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
